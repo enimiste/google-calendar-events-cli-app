@@ -1,0 +1,12 @@
+{
+    "name": "hp/goog-calendar-cli",
+    "authors": [
+        {
+            "name": "Nouni EL Bachir",
+            "email": "nouni.elbachir@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.2"
+    }
+}
